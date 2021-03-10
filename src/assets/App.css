@@ -1,0 +1,10 @@
+.App {
+    background-color:#E7E7E7;
+    min-height: 100vh;
+  }
+
+  nav.navbar {
+    background-color: #fff159;
+    align-items: center;
+    justify-content: center;
+  }
